@@ -14,7 +14,10 @@ We will implement a gift suggestion feature. This will be our most crucial featu
 ![Wireframe](326-Het-Final-Wireframe.png)
 
 ## Images
-![user-circle](user-circle.svg)
+![login](login.png)
+![edit profile](edit_profile.png)
+![your group](your_group.png)
+![giftee profile](giftee_profile.png)
 
 ## Division of Labor
 Part 0 - Umar Shafiq and Jacob Stulgis
